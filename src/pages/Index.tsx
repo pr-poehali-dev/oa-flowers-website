@@ -52,11 +52,14 @@ const Index = () => {
               <div className="max-w-6xl mx-auto text-center">
                 <div className="mb-8 animate-fade-in">
                   <img 
-                    src="/img/bca985e5-a546-49f9-97e7-c14a88859990.jpg" 
-                    alt="OA Flowers Logo"
-                    className="mx-auto w-full max-w-md md:max-w-lg h-auto object-contain"
+                    src="/img/92df5a34-c228-49a3-8c65-9b6c82322293.jpg" 
+                    alt="Цветочная композиция"
+                    className="mx-auto w-full max-w-md md:max-w-lg h-auto object-contain rounded-2xl shadow-lg"
                   />
                 </div>
+                <h1 className="font-playfair text-5xl md:text-7xl font-bold text-foreground mb-6 animate-fade-in">
+                  OA Flowers
+                </h1>
                 <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
                   Создаём нежные букеты и композиции для особенных моментов вашей жизни
                 </p>
