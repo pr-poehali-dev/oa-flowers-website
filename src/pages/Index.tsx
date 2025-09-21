@@ -55,7 +55,7 @@ const Index = () => {
                   <img 
                     src="/img/7f9d10a3-d472-4d6e-bc6b-d1915b381984.jpg" 
                     alt="Красивая девушка с букетом цветов"
-                    className="mx-auto w-full max-w-5xl h-48 md:h-56 object-cover rounded-2xl shadow-lg"
+                    className="mx-auto w-full max-w-5xl h-72 md:h-80 object-cover rounded-2xl shadow-lg"
                   />
                 </div>
                 <h1 className="font-playfair text-5xl md:text-7xl font-bold text-foreground mb-6 animate-fade-in">
